@@ -1,0 +1,23 @@
+{
+  "name": "dodo-bower-test",
+  "homepage": "https://github.com/KentoDodo/bower-test",
+  "authors": [
+    "Kento Dodo"
+  ],
+  "description": "This is test library.",
+  "main": [
+    "dist/main.js"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
